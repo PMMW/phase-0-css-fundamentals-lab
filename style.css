@@ -3,3 +3,25 @@ body {
   height: 100%;
   margin: 0;
 }
+header{
+text-align: center;
+}
+#featured-property{
+  display:flex;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+   
+}
+
+#details {
+  background: red;
+  display: flex;
+  flex-direction: row;
+  
+  
+}
+div {
+  text-align: center;
+  padding-inline: 120px;
+}
